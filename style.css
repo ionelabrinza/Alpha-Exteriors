@@ -1,0 +1,166 @@
+
+.card-title {
+color: #150868;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+
+}
+.btn {
+    background-color: #150868;
+}
+
+.btn-primary {
+    background-color: #150868;
+
+}
+
+.card-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.card-body {
+    background-color: khaki;
+}
+
+.btn-primary {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.justify-content-center {
+    justify-content: center!important;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #150868;
+}
+
+.card {
+    padding: 10px;
+    margin: 20px;
+    border: none !important;
+    background-color: #150868;
+}
+
+.btn-primary {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #150868!important;
+    color: khaki!important;
+
+}
+
+.card-text {
+    font-family: 'Times New Roman', Times, serif;
+    color: #150868;
+    font-weight: lighter;
+    justify-content: space-evenly;
+}
+
+.container-fluid {
+    justify-content: center;
+    display: flex;
+
+}
+
+.card-img-top {
+    width: 400px;
+    height: 200px;
+}
+.accordion {
+    padding-top: 25px;
+}
+
+#accordionFlushExample {
+    width: 500px;
+    color: midnightblue;
+}
+.accordion-item {
+    align-content: center;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: khaki;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.py-5 {
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    display: flex;
+    width:1500px;
+    text-decoration: none;
+}
+
+svg {
+    color:aliceblue}
+
+.d-flex {
+    display: flex!important;
+    padding: 5px;
+}
+
+.list-unlstyled {
+    list-style: none;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.d-block {
+    justify-items: center;
+}
+
+a {
+    color: #150868!important;
+    text-decoration: underline none;
+}
+
+
+
+.accordion-body {
+    background: khaki;
+}
+
+.accordion-button {
+    background-color: violet;
+}
+
+.container-fluid {
+    background-color:khaki;
+
+}
+
+.collapse {
+    color: white;
+}
+
+.navbar-collapese {
+    color: white;
+}
+
+#navbarSupportedContent {
+    color: white;
+}
+
+.navbar-nav {
+    color: white!important;
+}
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.copyright {
+    color: aliceblue;
+}
