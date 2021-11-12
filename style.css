@@ -66,6 +66,7 @@ font-weight: bold;
     justify-content: center;
     display: flex;
 
+
 }
 
 .card-img-top {
@@ -125,14 +126,18 @@ a {
     text-decoration: underline none;
 }
 
-
+#accordionFlushExample {
+    padding-bottom: 20px;
+}
 
 .accordion-body {
     background: khaki;
+    color: #150868!important;
 }
 
-.accordion-button {
+.accordion-button .collapsed {
     background-color: violet;
+    color: brown;
 }
 
 .container-fluid {
@@ -140,27 +145,24 @@ a {
 
 }
 
-.collapse {
-    color: white;
-}
-
-.navbar-collapese {
-    color: white;
-}
-
 #navbarSupportedContent {
-    color: white;
-}
-
-.navbar-nav {
-    color: white!important;
+    align-items: center;
+    font-weight: bold;
+    
 }
 
 .navbar {
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding-top: 0rem!important;
+    padding-bottom: 0rem!important;
+    justify-content: center;
 }
 
 .copyright {
     color: aliceblue;
+}
+
+.banner {
+    display: flex;
+    justify-content:center;
+
 }
